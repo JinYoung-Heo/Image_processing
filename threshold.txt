@@ -1,0 +1,4 @@
+하려면 먼저 흑백으로 만들어줘야함(gray scale)
+
+adaptive threshold 가 젤 낫고
+마지막 두 인자는 그때그때 알아서 맞춰주는게 나음
